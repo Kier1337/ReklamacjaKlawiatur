@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">reklamacjaklawiatury</string>
+
+    <string-array name="keyboard_models">
+        <item>Logitech G213</item>
+        <item>Razer BlackWidow</item>
+        <item>SteelSeries Apex</item>
+    </string-array>
+</resources>
+
